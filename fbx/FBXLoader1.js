@@ -4140,4 +4140,4 @@ function inject( a1, index, a2 ) {
 
 }
 
-export { FBXLoader };
+// export { FBXLoader };
